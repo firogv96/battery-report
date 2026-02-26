@@ -2,4 +2,4 @@
 build/
 __pycache__/
 *.spec
-battery_report.xml
+Instrucciones.md
