@@ -14,12 +14,12 @@ Este es un proyecto **didáctico**, desarrollado con la ayuda de **Inteligencia 
 - **Interfaz Moderna**: Construida con `customtkinter`, ofreciendo un aspecto limpio y adaptado a los estándares visuales actuales.
 - **Precisión**: Obtiene la información directamente del comando oficial de Windows `powercfg /batteryreport /xml`.
 
-## Cómo se usa
+## Cómo descargar y usar
 
-Para ejecutar esta aplicación, no es necesario instalar Python ni ninguna librería adicional:
+Para usar la aplicación de forma rápida sin necesidad de instalar Python ni librerías adicionales:
 
-1. Dirígete a la carpeta **`dist/`** de este repositorio.
-2. Descarga el archivo ejecutable: **`Salud de Batería Windows v1.2.0.exe`**.
+1. Ve a la sección de **[Releases](https://github.com/firogv96/battery-report/releases)** de este repositorio.
+2. Descarga el archivo `.exe` de la versión más reciente (por ejemplo: `Salud.de.Bateria.Windows.v1.2.0.exe`).
 3. Haz doble clic en el archivo descargado para ejecutarlo.
 
 _Nota: Es posible que Windows SmartScreen muestre una advertencia al ser un ejecutable no firmado. Puedes ignorarla bajo tu propia responsabilidad haciendo clic en "Más información" -> "Ejecutar de todas formas"._
