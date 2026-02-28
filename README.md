@@ -1,5 +1,7 @@
 # Win Battery Report - Monitor de Salud de Batería (Windows)
 
+![Battery Report Preview](assets/preview.png)
+
 Este es un proyecto **didáctico**, desarrollado con la ayuda de **Inteligencia Artificial**, destinado exclusivamente para **uso personal, no comercial y no profesional**.
 
 ## Descripción
